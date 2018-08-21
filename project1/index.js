@@ -1,1 +1,1 @@
-var name='dev';
+var name='server';

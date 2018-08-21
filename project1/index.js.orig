@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+var name='dev';
+=======
+var name='server';
+>>>>>>> 6a106e30e0d8d315004cd4f94f5c63d3faba7a79
