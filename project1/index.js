@@ -1,1 +1,1 @@
-var name='local';
+var name='server';
