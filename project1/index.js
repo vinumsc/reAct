@@ -1,1 +1,1 @@
-var name='s';
+var name='local';
